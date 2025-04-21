@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s03mheo",
+  "description": "https://scrimba.com/frontend-path-c0j/~0ji/s0913l2l9d/head",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
